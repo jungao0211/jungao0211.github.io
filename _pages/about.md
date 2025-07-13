@@ -1,13 +1,16 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
+title: "Jun (峻) Gao(高)
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am currently a postdoctoral researcher at the University of Warwick, UK, working with Professor [Oleg Pikhurko](https://pikhurko.github.io/).
+
+From August 2020 to April 2025, I was a research fellow in the Extremal Combinatorics and Probability Group, led by Professor [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/), at the Institute for Basic Science (IBS) in Daejeon, South Korea.
+
+Prior to that, I completed my Ph.D. in the School of Mathematical Sciences at the University of Science and Technology of China (USTC), under the supervision of Professor [Jie Ma](http://staff.ustc.edu.cn/~jiema/). I received my B.S. degree in 2017 from the School of the Gifted Young at USTC.
 
 A data-driven personal website
 ======
