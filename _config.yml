@@ -25,7 +25,7 @@ author:
   avatar           : "jun.png"
   name             : "Jun Gao"
   pronouns         : # example: "she/her"  
-  # bio              : "I am currently a postdoctoral researcher at the University of Warwick"
+  bio              : hellow #"I am currently a postdoctoral researcher at the University of Warwick"
   location         : "UK"
   employer         : "University of warwick"
   uri              : # URL
