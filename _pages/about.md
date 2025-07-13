@@ -14,4 +14,4 @@ Prior to that, I completed my Ph.D. in the School of Mathematical Sciences at th
 
 Research Interests:
 ======
-I am interesting in Combinatorics, Graph Theory (both extremal and structural), Extremal Set Theory, discrete geometry, and their applications to Computer Science.
+I am interesting in Combinatorics, Graph Theory (both extremal and structural), Extremal Set Theory, Discrete Geometry, and their applications to Computer Science.
