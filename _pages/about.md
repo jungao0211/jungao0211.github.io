@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jun (峻) Gao(高)
+title: "Jun Gao
 redirect_from: 
   - /about/
   - /about.html
