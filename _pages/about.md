@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jun Gao
+title: "Jun Gao"
 redirect_from: 
   - /about/
   - /about.html
