@@ -20,11 +20,11 @@ I am interesting in Combinatorics, Graph Theory (both extremal and structural), 
 
 ## Submitted
 
-1. Z. Dong, J. Gao, and H. Liu, Bipartite Tur\'an problem on graph gluing, arXiv:2501.12953v1
+1. Z. Dong, J. Gao, and H. Liu, Bipartite Tur&#225n problem on graph gluing, arXiv:2501.12953v1
 
 2. J. Ai, J. Gao, Z. Xu, and X. Yan, Strong Ramsey game on two boards, arXiv:2501.06830v2
 
-3. J. Gao, X. Liu, J. Ma, and O. Pikhurko, Phase transition of degenerate Tur\'an problems in p-norms, arXiv:2411.15579v3
+3. J. Gao, X. Liu, J. Ma, and O. Pikhurko, Phase transition of degenerate Tur&#225n problems in p-norms, arXiv:2411.15579v3
 
 4. L. Ding, J. Gao, H. Liu, B. Luan, and S. Sun, Induced even cycles in locally sparse graphs, arXiv:2411.12659v1
 
