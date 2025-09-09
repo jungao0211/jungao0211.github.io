@@ -32,7 +32,7 @@ I am interesting in Combinatorics, Graph Theory (both extremal and structural), 
 
 ## Accepted
 1. J. Gao, S. Jiang, H. Liu, M. Sankar Generalized Ramsey–Tur&#225;n density for cliques, Forum of Mathematics Sigma, to appear.
-2. S. Cambie, J. Gao, Y. Kim and H. Liu, The Erd\"os distinct subset sums problem in a modular setting, Acta Arithmetica, to appear.
+2. S. Cambie, J. Gao, Y. Kim and H. Liu, The Erd&#337;s distinct subset sums problem in a modular setting, Acta Arithmetica, to appear.
 3. J. Gao, O. Janzer, H. Liu and Z. Xu, Extremal number of graphs from geometric shapes, Israel Journal of Mathematics, to appear.
 
 ## Published
@@ -43,6 +43,6 @@ I am interesting in Combinatorics, Graph Theory (both extremal and structural), 
 5. J. Gao, H. Lu, J. Ma and X. Yu, On the rainbow matching conjecture for 3-uniform hypergraphs, Science China Mathematics, 65 (2022), 2423-2440.
 6. J. Gao, Q. Huo, C. Liu and J. Ma, A unified proof of conjectures on cycle lengths in graphs, Int. Math. Res. Not., 2022(10) (2022), 7615-7653.
 7. J. Gao, Q. Huo and J. Ma, A strengthening on odd cycles in graphs of given chromatic number, SIAM J. Discrete Math, 35(4) (2021), 2317-2327.
-8. J. Gao and J. Ma, A conjecture of Verstra\"ete on vertex-disjoint cycles, SIAM J. Discrete Math, 34(2) (2020), 1290-1301.
+8. J. Gao and J. Ma, A conjecture of Verstra&#235;te on vertex-disjoint cycles, SIAM J. Discrete Math, 34(2) (2020), 1290-1301.
 9. J. Gao and J. Ma, On a conjecture of Bondy and Vince, J. Combin. Theory, Ser. B, 144 (2020), 136-142.
 10. J. Gao and X. Hou, The spectral radius of graphs without long cycles, Linear Algebra and its Applications, (2017), 566.
