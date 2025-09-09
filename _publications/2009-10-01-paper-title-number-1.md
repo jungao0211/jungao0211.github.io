@@ -2,7 +2,7 @@
 title: "The spectral radius of graphs without long cycles"
 collection: publications
 category: manuscripts
-excerpt: 'J. Gao, Xinmin Hou'
-venue: 'Linear Algebra and its Applications, (2017), 566.'
+excerpt: 'Qingyi Huo, Chun-Hung Liu and Jie Ma'
+venue: 'Int. Math. Res. Not., 2022(10) (2022), 7615-7653.'
 ---
 
