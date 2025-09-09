@@ -12,6 +12,9 @@ From August 2020 to April 2025, I was a research fellow in the Extremal Combinat
 
 Prior to that, I completed my Ph.D. in the School of Mathematical Sciences at the University of Science and Technology of China (USTC), under the supervision of Professor [Jie Ma](http://staff.ustc.edu.cn/~jiema/). I received my B.S. degree in 2017 from the School of the Gifted Young at USTC.
 
+## Email:
+gj950211@gmail.com or jun.gao@warwick.ac.uk
+
 # Research Interests:
 
 I am interested in Combinatorics, Graph Theory (both extremal and structural), Extremal Set Theory, Discrete Geometry, and their applications to Computer Science.
