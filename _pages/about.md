@@ -22,30 +22,28 @@ I am interested in Combinatorics, Graph Theory (both extremal and structural), E
 # Pubilications:
 
 ## Submitted
-
-1. Z. Dong, J. Gao, and H. Liu, Bipartite Tur&#225;n problem on graph gluing, arXiv:2501.12953v1
-
-2. J. Ai, J. Gao, Z. Xu, and X. Yan, Strong Ramsey game on two boards, arXiv:2501.06830v2
-
-3. J. Gao, X. Liu, J. Ma, and O. Pikhurko, Phase transition of degenerate Tur&#225;n problems in p-norms, arXiv:2411.15579v3
-
-4. L. Ding, J. Gao, H. Liu, B. Luan, and S. Sun, Induced even cycles in locally sparse graphs, arXiv:2411.12659v1
-
-5. J. Gao, Y. Xue and Z. Wu, Counting cliques without generalized theta graphs, arXiv:2311.15289v1
-
+1. J. Gao, Xizhi Liu, Oleg Pikhurko, and Shumin Sun, New upper bound for lattice covering by spheres, arXiv:2508.06446v1, submitted.
+2. Zichao Dong, J. Gao, Ruonan Li, and Hong Liu, Induced rational exponents and bipartite subgraphs in $K_{s,s}$-free graphs, arXiv:2506.0902v1, submitted.
+3. Zichao Dong, J. Gao, Hong Liu, Minghui Ouyang, and Qiang Zhou, Set families: restricted distances via restricted intersections, arXiv:2504.12296v2, submitted.
+4. Zichao Dong, J. Gao, and Hong Liu, Bipartite Tur&#225;n problem on graph gluing, arXiv:2501.12953v1, submitted.
+5. Jiangdong Ai, J. Gao, Zixiang Xu, and Xin Yan, Strong Ramsey game on two boards, arXiv:2501.06830v2, submitted.
+6. Laihao Ding, J. Gao, Hong Liu, Bingyu Luan, and Shumin Sun, Induced even cycles in locally sparse graphs, arXiv:2411.12659v1, submitted.
+   
 ## Accepted
-1. J. Gao, S. Jiang, H. Liu, M. Sankar Generalized Ramsey–Tur&#225;n density for cliques, Forum of Mathematics Sigma, to appear.
-2. S. Cambie, J. Gao, Y. Kim and H. Liu, The Erd&#337;s distinct subset sums problem in a modular setting, Acta Arithmetica, to appear.
-3. J. Gao, O. Janzer, H. Liu and Z. Xu, Extremal number of graphs from geometric shapes, Israel Journal of Mathematics, to appear.
+1. J. Gao, Yisai Xue and Zhuo Wu, Counting cliques without generalized theta graphs, Journal of Graph Theory , to appear.
+2. J. Gao, Suyun Jiang, Hong Liu and Maya Sankar, Generalized Ramsey–Tur&#225;n density for cliques, Forum of Mathematics Sigma, to appear.
+3. J. Gao, Olive Janzer, Hong Liu and Zixiang Xu, Extremal number of graphs from geometric shapes, Israel Journal of Mathematics, to appear.
 
 ## Published
-1. S. Cambie, J. Gao, and H. Liu, Many Hamiltonian subsets in large graphs with given density, Combinatorics, Probability and Computing,33 (2024), 110–120.
-2. J. Gao, B. Li, J. Ma and T. Xie, On two cycles of consecutive even lengths, Journal of Graph Theory , 106 (2024), 225–238
-3. J. Gao, H. Liu and Z. Xu, Stability through non-shadows, Combinatorica, 43 (2023), 1125–1137.
-4. J. Gao and J. Ma, Tight bounds towards a conjecture of Gallai, Combinatorica, 43 (2023), 447-453.
-5. J. Gao, H. Lu, J. Ma and X. Yu, On the rainbow matching conjecture for 3-uniform hypergraphs, Science China Mathematics, 65 (2022), 2423-2440.
-6. J. Gao, Q. Huo, C. Liu and J. Ma, A unified proof of conjectures on cycle lengths in graphs, Int. Math. Res. Not., 2022(10) (2022), 7615-7653.
-7. J. Gao, Q. Huo and J. Ma, A strengthening on odd cycles in graphs of given chromatic number, SIAM J. Discrete Math, 35(4) (2021), 2317-2327.
-8. J. Gao and J. Ma, A conjecture of Verstra&#235;te on vertex-disjoint cycles, SIAM J. Discrete Math, 34(2) (2020), 1290-1301.
-9. J. Gao and J. Ma, On a conjecture of Bondy and Vince, J. Combin. Theory, Ser. B, 144 (2020), 136-142.
-10. J. Gao and X. Hou, The spectral radius of graphs without long cycles, Linear Algebra and its Applications, (2017), 566.
+1. J. Gao, Xizhi Liu, Jie Ma, and Oleg Pikhurko, Phase transition of degenerate Tur&#225;n problems in p-norms, SIAM J. Discrete Math, 39(3) (2025), 1712-1736.
+2. Stijn Cambie, J. Gao, Younjin Kim and Hong Liu, The Erd&#337;s distinct subset sums problem in a modular setting, Acta Arithmetica, 217 (2025), 295-307.
+3. Stijn Cambie, J. Gao, and Hong Liu,, Many Hamiltonian subsets in large graphs with given density, Combinatorics, Probability and Computing,33 (2024), 110–120.
+4. J. Gao, Binlong Li, Jie Ma and Tianying Xie, On two cycles of consecutive even lengths, Journal of Graph Theory , 106 (2024), 225–238
+5. J. Gao, Hong Liu and Zixiang Xu, Stability through non-shadows, Combinatorica, 43 (2023), 1125–1137.
+6. J. Gao and Jie Ma, Tight bounds towards a conjecture of Gallai, Combinatorica, 43 (2023), 447-453.
+7. J. Gao, Hongliang Lu, Jie Ma and Xingxing Yu, On the rainbow matching conjecture for 3-uniform hypergraphs, Science China Mathematics, 65 (2022), 2423-2440.
+8. J. Gao, Qingyi Huo, Chun-Hung Liu and Jie Ma, A unified proof of conjectures on cycle lengths in graphs, Int. Math. Res. Not., 2022(10) (2022), 7615-7653.
+9. J. Gao, Qingyi Huo and Jie Ma, A strengthening on odd cycles in graphs of given chromatic number, SIAM J. Discrete Math, 35(4) (2021), 2317-2327.
+10. J. Gao and Jie Ma, A conjecture of Verstra&#235;te on vertex-disjoint cycles, SIAM J. Discrete Math, 34(2) (2020), 1290-1301.
+11. J. Gao and Jie Ma, On a conjecture of Bondy and Vince, J. Combin. Theory, Ser. B, 144 (2020), 136-142.
+12. J. Gao and Xinmin Hou, The spectral radius of graphs without long cycles, Linear Algebra and its Applications, (2017), 566.
