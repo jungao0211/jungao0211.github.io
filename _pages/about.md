@@ -22,7 +22,7 @@ I am interested in Combinatorics, Graph Theory (both extremal and structural), E
 # Pubilications:
 
 ## Submitted
-1. J. Gao, *On cliques in hypergraphs*, arXiv:2510.14804v1, submitted.(Answers Erd&#337;s problem $775)
+1. J. Gao, *On cliques in hypergraphs*, arXiv:2510.14804v1, submitted.(**Answers Erd&#337;s problem #775**)
 2. J. Gao, Xizhi Liu, Oleg Pikhurko, and Shumin Sun, *New upper bound for lattice covering by spheres*, arXiv:2508.06446v1, submitted.
 3. Zichao Dong, J. Gao, Ruonan Li, and Hong Liu, *Induced rational exponents and bipartite subgraphs in $K_{s,s}$-free graphs*, arXiv:2506.0902v1, submitted.
 4. Zichao Dong, J. Gao, Hong Liu, Minghui Ouyang, and Qiang Zhou, *Set families: restricted distances via restricted intersections*, arXiv:2504.12296v2, submitted.
