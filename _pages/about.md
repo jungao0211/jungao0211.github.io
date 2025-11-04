@@ -22,17 +22,18 @@ I am interested in Combinatorics, Graph Theory (both extremal and structural), E
 # Pubilications:
 
 ## Submitted
-1. J. Gao, *On cliques in hypergraphs*, arXiv:2510.14804v1, submitted.(**Answers Erd&#337;s problem #775**)
-2. J. Gao, Xizhi Liu, Oleg Pikhurko, and Shumin Sun, *New upper bound for lattice covering by spheres*, arXiv:2508.06446v1, submitted.
-3. Zichao Dong, J. Gao, Ruonan Li, and Hong Liu, *Induced rational exponents and bipartite subgraphs in $K_{s,s}$-free graphs*, arXiv:2506.0902v1, submitted.
-4. Zichao Dong, J. Gao, Hong Liu, Minghui Ouyang, and Qiang Zhou, *Set families: restricted distances via restricted intersections*, arXiv:2504.12296v2, submitted.
-5. Zichao Dong, J. Gao, and Hong Liu, *Bipartite Tur&#225;n problem on graph gluing*, arXiv:2501.12953v1, submitted.
+1. Boris Bukh, J. Gao, Xizhi Liu, Oleg Pikhurko, and Shumin Sun, *Covering large-dimensional Euclidean spaces by random translates of a given convex body*, arXiv:2510.25685, submitted.
+2. J. Gao, *On cliques in hypergraphs*, arXiv:2510.14804v1, submitted. (**Answers [Erd&#337;s problem #775](https://www.erdosproblems.com/775)**)
+3. J. Gao, Xizhi Liu, Oleg Pikhurko, and Shumin Sun, *New upper bound for lattice covering by spheres*, arXiv:2508.06446v1, submitted.
+4. Zichao Dong, J. Gao, Ruonan Li, and Hong Liu, *Induced rational exponents and bipartite subgraphs in $K_{s,s}$-free graphs*, arXiv:2506.0902v1, submitted.
+5. Zichao Dong, J. Gao, Hong Liu, Minghui Ouyang, and Qiang Zhou, *Set families: restricted distances via restricted intersections*, arXiv:2504.12296v2, submitted.
 6. Jiangdong Ai, J. Gao, Zixiang Xu, and Xin Yan, *Strong Ramsey game on two boards*, arXiv:2501.06830v2, submitted.
 7. Laihao Ding, J. Gao, Hong Liu, Bingyu Luan, and Shumin Sun, *Induced even cycles in locally sparse graphs*, arXiv:2411.12659v1, submitted.
    
 ## Accepted
-1. J. Gao, Yisai Xue and Zhuo Wu, *Counting cliques without generalized theta graphs*, **Journal of Graph Theory** , to appear.
-2. J. Gao, Olive Janzer, Hong Liu and Zixiang Xu, *Extremal number of graphs from geometric shapes*, **Israel Journal of Mathematics**, to appear.
+1. Zichao Dong, J. Gao, and Hong Liu, *Bipartite Tur&#225;n problem on graph gluing*, **Bull. Lond. Math. Soc**,  to appear.
+2. J. Gao, Yisai Xue and Zhuo Wu, *Counting cliques without generalized theta graphs*, **Journal of Graph Theory** , to appear.
+3. J. Gao, Olive Janzer, Hong Liu and Zixiang Xu, *Extremal number of graphs from geometric shapes*, **Israel Journal of Mathematics**, to appear.
 
 ## Published
 1. J. Gao, Xizhi Liu, Jie Ma, and Oleg Pikhurko, *Phase transition of degenerate Tur&#225;n problems in p-norms*, **SIAM J. Discrete Math**, 39(3) (2025), 1712-1736.
