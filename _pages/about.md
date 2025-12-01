@@ -25,15 +25,15 @@ I am interested in Combinatorics, Graph Theory (both extremal and structural), E
 1. Boris Bukh, J. Gao, Xizhi Liu, Oleg Pikhurko, and Shumin Sun, *Covering large-dimensional Euclidean spaces by random translates of a given convex body*, arXiv:2510.25685, submitted.
 2. J. Gao, *On cliques in hypergraphs*, arXiv:2510.14804v1, submitted. (**Answers [Erd&#337;s problem #775](https://www.erdosproblems.com/775)**)
 3. Zichao Dong, J. Gao, Ruonan Li, and Hong Liu, *Induced rational exponents and bipartite subgraphs in $K_{s,s}$-free graphs*, arXiv:2506.0902v1, submitted.
-4. Zichao Dong, J. Gao, Hong Liu, Minghui Ouyang, and Qiang Zhou, *Set families: restricted distances via restricted intersections*, arXiv:2504.12296v2, submitted.
-5. Jiangdong Ai, J. Gao, Zixiang Xu, and Xin Yan, *Strong Ramsey game on two boards*, arXiv:2501.06830v2, submitted.
-6. Laihao Ding, J. Gao, Hong Liu, Bingyu Luan, and Shumin Sun, *Induced even cycles in locally sparse graphs*, arXiv:2411.12659v1, submitted.
+4. Jiangdong Ai, J. Gao, Zixiang Xu, and Xin Yan, *Strong Ramsey game on two boards*, arXiv:2501.06830v2, submitted.
+5. Laihao Ding, J. Gao, Hong Liu, Bingyu Luan, and Shumin Sun, *Induced even cycles in locally sparse graphs*, arXiv:2411.12659v1, submitted.
    
 ## Accepted
-1. J. Gao, Xizhi Liu, Oleg Pikhurko, and Shumin Sun, *New upper bound for lattice covering by spheres*, **Mathematika** , to appear.
-2. Zichao Dong, J. Gao, and Hong Liu, *Bipartite Tur&#225;n problem on graph gluing*, **Bull. Lond. Math. Soc**,  to appear.
-3. J. Gao, Yisai Xue and Zhuo Wu, *Counting cliques without generalized theta graphs*, **Journal of Graph Theory** , to appear.
-4. J. Gao, Olive Janzer, Hong Liu and Zixiang Xu, *Extremal number of graphs from geometric shapes*, **Israel Journal of Mathematics**, to appear.
+1. 4. Zichao Dong, J. Gao, Hong Liu, Minghui Ouyang, and Qiang Zhou, *Set families: restricted distances via restricted intersections*, **Mathematical Proceedings of the Cambridge Philosophical Society**, to appear.
+2. J. Gao, Xizhi Liu, Oleg Pikhurko, and Shumin Sun, *New upper bound for lattice covering by spheres*, **Mathematika** , to appear.
+3. Zichao Dong, J. Gao, and Hong Liu, *Bipartite Tur&#225;n problem on graph gluing*, **Bull. Lond. Math. Soc**,  to appear.
+4. J. Gao, Yisai Xue and Zhuo Wu, *Counting cliques without generalized theta graphs*, **Journal of Graph Theory** , to appear.
+5. J. Gao, Olive Janzer, Hong Liu and Zixiang Xu, *Extremal number of graphs from geometric shapes*, **Israel Journal of Mathematics**, to appear.
 
 ## Published
 1. J. Gao, Xizhi Liu, Jie Ma, and Oleg Pikhurko, *Phase transition of degenerate Tur&#225;n problems in p-norms*, **SIAM J. Discrete Math**, 39(3) (2025), 1712-1736.
