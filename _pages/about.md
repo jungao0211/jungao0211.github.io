@@ -29,7 +29,7 @@ I am interested in Combinatorics, Graph Theory (both extremal and structural), E
 5. Laihao Ding, J. Gao, Hong Liu, Bingyu Luan, and Shumin Sun, *Induced even cycles in locally sparse graphs*, arXiv:2411.12659v1, submitted.
    
 ## Accepted
-1. 4. Zichao Dong, J. Gao, Hong Liu, Minghui Ouyang, and Qiang Zhou, *Set families: restricted distances via restricted intersections*, **Mathematical Proceedings of the Cambridge Philosophical Society**, to appear.
+1. Zichao Dong, J. Gao, Hong Liu, Minghui Ouyang, and Qiang Zhou, *Set families: restricted distances via restricted intersections*, **Mathematical Proceedings of the Cambridge Philosophical Society**, to appear.
 2. J. Gao, Xizhi Liu, Oleg Pikhurko, and Shumin Sun, *New upper bound for lattice covering by spheres*, **Mathematika** , to appear.
 3. Zichao Dong, J. Gao, and Hong Liu, *Bipartite Tur&#225;n problem on graph gluing*, **Bull. Lond. Math. Soc**,  to appear.
 4. J. Gao, Yisai Xue and Zhuo Wu, *Counting cliques without generalized theta graphs*, **Journal of Graph Theory** , to appear.
