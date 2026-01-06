@@ -22,11 +22,12 @@ I am interested in Combinatorics, Graph Theory (both extremal and structural), E
 # Pubilications:
 
 ## Submitted
-1. Boris Bukh, J. Gao, Xizhi Liu, Oleg Pikhurko, and Shumin Sun, *Covering large-dimensional Euclidean spaces by random translates of a given convex body*, arXiv:2510.25685, submitted.
-2. J. Gao, *On cliques in hypergraphs*, arXiv:2510.14804v1, submitted. (**Answers [Erd&#337;s problem #775](https://www.erdosproblems.com/775)**)
-3. Zichao Dong, J. Gao, Ruonan Li, and Hong Liu, *Induced rational exponents and bipartite subgraphs in $K_{s,s}$-free graphs*, arXiv:2506.0902v1, submitted.
-4. Jiangdong Ai, J. Gao, Zixiang Xu, and Xin Yan, *Strong Ramsey game on two boards*, arXiv:2501.06830v2, submitted.
-5. Laihao Ding, J. Gao, Hong Liu, Bingyu Luan, and Shumin Sun, *Induced even cycles in locally sparse graphs*, arXiv:2411.12659v1, submitted.
+1. J. Gao, Oleg Pikhurko, Mingyuan Rong, Shumin Sun, *Rational codegree Tur&#225;n density of hypergraphs*, arXiv:2601.00758, submitted.
+2. Boris Bukh, J. Gao, Xizhi Liu, Oleg Pikhurko, and Shumin Sun, *Covering large-dimensional Euclidean spaces by random translates of a given convex body*, arXiv:2510.25685, submitted.
+3. J. Gao, *On cliques in hypergraphs*, arXiv:2510.14804v1, submitted. (**Answers [Erd&#337;s problem #775](https://www.erdosproblems.com/775)**)
+4. Zichao Dong, J. Gao, Ruonan Li, and Hong Liu, *Induced rational exponents and bipartite subgraphs in $K_{s,s}$-free graphs*, arXiv:2506.0902v1, submitted.
+5. Jiangdong Ai, J. Gao, Zixiang Xu, and Xin Yan, *Strong Ramsey game on two boards*, arXiv:2501.06830v2, submitted.
+6. Laihao Ding, J. Gao, Hong Liu, Bingyu Luan, and Shumin Sun, *Induced even cycles in locally sparse graphs*, arXiv:2411.12659v1, submitted.
    
 ## Accepted
 1. Zichao Dong, J. Gao, Hong Liu, Minghui Ouyang, and Qiang Zhou, *Set families: restricted distances via restricted intersections*, **Mathematical Proceedings of the Cambridge Philosophical Society**, to appear.
