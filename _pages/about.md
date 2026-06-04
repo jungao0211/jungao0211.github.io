@@ -22,7 +22,7 @@ I am interested in Combinatorics, Graph Theory (both extremal and structural), E
 # Pubilications:
 
 ## Preprint
-1. Levente Bodnár, J. Gao, Jared León, Xizhi Liu, Oleg Pikhurko, Shumin Sun *The inducibility of 6-vertex graphs*, arXiv:2606.00290.
+1. Levente Bodnár, J. Gao, Jared León, Xizhi Liu, Oleg Pikhurko, Shumin Sun, *The inducibility of 6-vertex graphs*, arXiv:2606.00290.
 2. J. Gao, Jie Ma, Oleg Pikhurko, *A note on the Ratio and Inertia Bounds for the -Independence Number*, arXiv:2606.01761. 
 3. J. Gao, Hong Liu, Zhuo Wu, Yisai Xue, *Chromatic thresholds for pairs of graphs*, arXiv:2605.10897.
 4. J. Gao, Oleg Pikhurko, Mingyuan Rong, Shumin Sun, *Rational codegree Tur&#225;n density of hypergraphs*, arXiv:2601.00758.
