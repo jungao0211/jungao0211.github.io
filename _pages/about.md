@@ -24,11 +24,12 @@ I am interested in Combinatorics, Graph Theory (both extremal and structural), E
 # Pubilications:
 
 ## Preprint
-1. Levente Bodnár, J. Gao, Jared León, Xizhi Liu, Oleg Pikhurko, Shumin Sun, *The inducibility of 6-vertex graphs*, arXiv:2606.00290.
-2. J. Gao, Jie Ma, Oleg Pikhurko, *A note on the Ratio and Inertia Bounds for the -Independence Number*, arXiv:2606.01761. 
-3. J. Gao, Hong Liu, Zhuo Wu, Yisai Xue, *Chromatic thresholds for pairs of graphs*, arXiv:2605.10897.
-4. J. Gao, Oleg Pikhurko, Mingyuan Rong, Shumin Sun, *Rational codegree Tur&#225;n density of hypergraphs*, arXiv:2601.00758.
-5. Boris Bukh, J. Gao, Xizhi Liu, Oleg Pikhurko, and Shumin Sun, *Covering large-dimensional Euclidean spaces by random translates of a given convex body*, arXiv:2510.25685.
+1. Levente Bodnár, J. Gao, Oleg Pikhurko, Mingyuan Rong, Shumin Sun, *Strong non-principality of positive codegree Turán density*, arXiv:2606.20494.
+2. Levente Bodnár, J. Gao, Jared León, Xizhi Liu, Oleg Pikhurko, Shumin Sun, *The inducibility of 6-vertex graphs*, arXiv:2606.00290.
+3. J. Gao, Jie Ma, Oleg Pikhurko, *A note on the Ratio and Inertia Bounds for the -Independence Number*, arXiv:2606.01761. 
+4. J. Gao, Hong Liu, Zhuo Wu, Yisai Xue, *Chromatic thresholds for pairs of graphs*, arXiv:2605.10897.
+5. J. Gao, Oleg Pikhurko, Mingyuan Rong, Shumin Sun, *Rational codegree Tur&#225;n density of hypergraphs*, arXiv:2601.00758.
+6. Boris Bukh, J. Gao, Xizhi Liu, Oleg Pikhurko, and Shumin Sun, *Covering large-dimensional Euclidean spaces by random translates of a given convex body*, arXiv:2510.25685.
 7. Zichao Dong, J. Gao, Ruonan Li, and Hong Liu, *Induced rational exponents and bipartite subgraphs in $K_{s,s}$-free graphs*, arXiv:2506.0902v1.
 8. Jiangdong Ai, J. Gao, Zixiang Xu, and Xin Yan, *Strong Ramsey game on two boards*, arXiv:2501.06830v2.
 9. Laihao Ding, J. Gao, Hong Liu, Bingyu Luan, and Shumin Sun, *Induced even cycles in locally sparse graphs*, arXiv:2411.12659v1.
