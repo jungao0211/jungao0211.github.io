@@ -1,0 +1,9 @@
+{% assign paper = include.paper %}
+<li class="publication-item" id="paper-{{ paper.id }}">
+  <span class="publication-authors">{% for name in paper.authors %}{% unless forloop.first %}{% if forloop.last %} and {% else %}, {% endif %}{% endunless %}{% if name == 'Jun Gao' %}J. Gao{% else %}{{ name }}{% endif %}{% endfor %}</span>,
+  <em class="publication-title">{{ paper.title_html | default: paper.title }}</em>,
+  <span class="publication-venue">{% if paper.status == 'published' %}<strong>{{ paper.journal }}</strong>, {{ paper.volume }} ({{ paper.year }}){% if paper.issue %}, no. {{ paper.issue }}{% endif %}{% if paper.pages %}, {{ paper.pages }}{% elsif paper.article_number %}, Paper No. {{ paper.article_number }}{% endif %}.{% else %}Preprint ({{ paper.year }}).{% endif %}</span>
+  {% if paper.doi %}<a href="https://doi.org/{{ paper.doi }}" aria-label="Journal article: {{ paper.title | escape }}">[DOI]</a>{% endif %}
+  {% if paper.arxiv %}<a href="https://arxiv.org/abs/{{ paper.arxiv }}" aria-label="arXiv: {{ paper.title | escape }}">[arXiv:{{ paper.arxiv }}]</a>{% endif %}
+  {% if paper.note %}<strong>(<a class="publication-note" href="{{ paper.note_url }}">{{ paper.note }}</a>)</strong>{% endif %}
+</li>

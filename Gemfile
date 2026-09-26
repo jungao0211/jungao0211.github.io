@@ -11,3 +11,9 @@ end
 
 gem 'github-pages'
 gem 'connection_pool', '2.5.0'
+
+# Windows does not include the IANA timezone database used by Jekyll.
+if Gem.win_platform?
+  gem 'tzinfo', '~> 1.2'
+  gem 'tzinfo-data'
+end

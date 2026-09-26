@@ -15,7 +15,46 @@
 
 See more info at https://academicpages.github.io/
 
+## Maintaining this homepage
+
+- English introduction and five selected papers: `_pages/about.md`.
+- Chinese introduction: `_pages/about-zh.md`.
+- Full publication list: `_pages/publications.html`, using `_data/papers.json`.
+- Teaching, academic visits and talks: `_pages/activities.md` (empty until records are confirmed).
+- Navigation: `_data/navigation.yml`.
+
+Edit publication metadata in `_data/papers.json`; the homepage and full list
+share the same records. `selected_order` chooses the five homepage papers and
+their order. The full list shows preprints first, newest arXiv submissions first
+(the current identifiers sort chronologically). Published papers sort newest
+first by `publication_date`, using the journal issue date where available;
+`publication_date_basis` distinguishes issue dates from online publication dates.
+Dates retain the precision supplied by the source. `checked_on` and `sources` record when and where metadata was
+verified. Keep papers as preprints unless a publisher or another reliable
+source confirms a publication. The old `_publications` collection is not used
+for the main publication list.
+
 ## Running locally
+
+### Windows: one-command preview
+
+Double-click `preview.cmd`, or run `.\preview.cmd` in a terminal in this folder.
+Wait for `Server running`, then open <http://localhost:4000>.
+Keep the terminal window open; press `Ctrl+C` to stop the server.
+
+Changes to Markdown, layouts, and styles automatically rebuild and reload the
+browser; allow about 20 seconds for a full rebuild on this computer.
+Restart the preview after changing `_config.yml` or `_config.local.yml`.
+The homepage text is in `_pages/about.md`; profile details are in `_config.yml`.
+Local preview does not publish changes to GitHub Pages.
+
+This computer uses Ruby+Devkit 3.3 in `local/ruby` and project gems in
+`vendor/bundle`. Both folders are ignored by Git and excluded from the website.
+On a new computer, install Ruby+Devkit 3.3 from
+<https://rubyinstaller.org/downloads/> with Ruby on PATH, then run `preview.cmd`.
+The script installs missing gems with Bundler on its first run.
+
+### General setup
 
 When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
 

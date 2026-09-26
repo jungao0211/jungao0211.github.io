@@ -1,0 +1,24 @@
+.language-switch, .section-intro, .bibliography-updated {
+  font-size: 0.85em;
+}
+
+.language-switch { margin-top: 0.5em; }
+.bibliography-updated { color: var(--global-text-color-light); }
+
+.publication-list {
+  .publication-item { margin-bottom: 0.65em; }
+}
+
+.section-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  margin-bottom: 0.8em;
+  font-size: 0.85em;
+  span { margin-left: 0.25em; }
+}
+
+.page__content h2[id], .publication-item[id] { scroll-margin-top: 100px; }
+.greedy-nav a[aria-current="page"] { text-decoration: underline; text-underline-offset: 0.4em; }
+
+html[lang="zh-CN"] .page__content { line-height: 1.9; }

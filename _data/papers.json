@@ -1,0 +1,645 @@
+[
+  {
+    "id": "positive-codegree",
+    "title": "Strong non-principality of positive codegree Turán density",
+    "authors": [
+      "Levente Bodnár",
+      "Jun Gao",
+      "Oleg Pikhurko",
+      "Mingyuan Rong",
+      "Shumin Sun"
+    ],
+    "status": "preprint",
+    "year": 2026,
+    "arxiv": "2606.20494",
+    "checked_on": "2026-09-26",
+    "sources": [
+      "https://arxiv.org/abs/2606.20494"
+    ]
+  },
+  {
+    "id": "inducibility-six",
+    "title": "The inducibility of 6-vertex graphs",
+    "authors": [
+      "Levente Bodnár",
+      "Jun Gao",
+      "Jared León",
+      "Xizhi Liu",
+      "Oleg Pikhurko",
+      "Shumin Sun"
+    ],
+    "status": "preprint",
+    "year": 2026,
+    "arxiv": "2606.00290",
+    "checked_on": "2026-09-26",
+    "sources": [
+      "https://arxiv.org/abs/2606.00290"
+    ]
+  },
+  {
+    "id": "ratio-inertia",
+    "title": "A note on the Ratio and Inertia Bounds for the k-Independence Number",
+    "authors": [
+      "Jun Gao",
+      "Jie Ma",
+      "Oleg Pikhurko"
+    ],
+    "status": "preprint",
+    "year": 2026,
+    "arxiv": "2606.01761",
+    "title_html": "A note on the Ratio and Inertia Bounds for the <i>k</i>-Independence Number",
+    "checked_on": "2026-09-26",
+    "sources": [
+      "https://arxiv.org/abs/2606.01761"
+    ]
+  },
+  {
+    "id": "chromatic-thresholds",
+    "title": "Chromatic thresholds for pairs of graphs",
+    "authors": [
+      "Jun Gao",
+      "Hong Liu",
+      "Zhuo Wu",
+      "Yisai Xue"
+    ],
+    "status": "preprint",
+    "year": 2026,
+    "arxiv": "2605.10897",
+    "checked_on": "2026-09-26",
+    "sources": [
+      "https://arxiv.org/abs/2605.10897"
+    ]
+  },
+  {
+    "id": "rational-codegree",
+    "title": "Rational codegree Turán density of hypergraphs",
+    "authors": [
+      "Jun Gao",
+      "Oleg Pikhurko",
+      "Mingyuan Rong",
+      "Shumin Sun"
+    ],
+    "status": "preprint",
+    "year": 2026,
+    "arxiv": "2601.00758",
+    "checked_on": "2026-09-26",
+    "sources": [
+      "https://arxiv.org/abs/2601.00758"
+    ]
+  },
+  {
+    "id": "random-coverings",
+    "title": "Covering large-dimensional Euclidean spaces by random translates of a given convex body",
+    "authors": [
+      "Boris Bukh",
+      "Jun Gao",
+      "Xizhi Liu",
+      "Oleg Pikhurko",
+      "Shumin Sun"
+    ],
+    "status": "preprint",
+    "year": 2025,
+    "arxiv": "2510.25685",
+    "checked_on": "2026-09-26",
+    "sources": [
+      "https://arxiv.org/abs/2510.25685"
+    ]
+  },
+  {
+    "id": "induced-rational",
+    "title": "Induced rational exponents and bipartite subgraphs in K_s,s-free graphs",
+    "authors": [
+      "Zichao Dong",
+      "Jun Gao",
+      "Ruonan Li",
+      "Hong Liu"
+    ],
+    "status": "preprint",
+    "year": 2025,
+    "arxiv": "2506.09020",
+    "title_html": "Induced rational exponents and bipartite subgraphs in <i>K</i><sub><i>s,s</i></sub>-free graphs",
+    "checked_on": "2026-09-26",
+    "sources": [
+      "https://arxiv.org/abs/2506.09020"
+    ]
+  },
+  {
+    "id": "ramsey-game",
+    "title": "Strong Ramsey game on two boards",
+    "authors": [
+      "Jiangdong Ai",
+      "Jun Gao",
+      "Zixiang Xu",
+      "Xin Yan"
+    ],
+    "status": "preprint",
+    "year": 2025,
+    "arxiv": "2501.06830",
+    "checked_on": "2026-09-26",
+    "sources": [
+      "https://arxiv.org/abs/2501.06830"
+    ]
+  },
+  {
+    "id": "induced-even-cycles",
+    "title": "Induced even cycles in locally sparse graphs",
+    "authors": [
+      "Laihao Ding",
+      "Jun Gao",
+      "Hong Liu",
+      "Bingyu Luan",
+      "Shumin Sun"
+    ],
+    "status": "preprint",
+    "year": 2024,
+    "arxiv": "2411.12659",
+    "checked_on": "2026-09-26",
+    "sources": [
+      "https://arxiv.org/abs/2411.12659"
+    ]
+  },
+  {
+    "id": "cliques-hypergraphs",
+    "title": "On cliques in hypergraphs",
+    "authors": [
+      "Jun Gao"
+    ],
+    "status": "published",
+    "year": 2026,
+    "arxiv": "2510.14804",
+    "doi": "10.1016/j.jctb.2026.07.001",
+    "journal": "Journal of Combinatorial Theory, Series B",
+    "volume": "180",
+    "pages": "84–93",
+    "note": "Answers Erdős problem #775",
+    "note_url": "https://www.erdosproblems.com/775",
+    "selected_order": 2,
+    "checked_on": "2026-09-26",
+    "sources": [
+      "https://doi.org/10.1016/j.jctb.2026.07.001",
+      "https://arxiv.org/abs/2510.14804",
+      "https://api.crossref.org/works/10.1016/j.jctb.2026.07.001"
+    ],
+    "publication_date": "2026-09",
+    "publication_date_basis": "issue"
+  },
+  {
+    "id": "restricted-distances",
+    "title": "Set families: restricted distances via restricted intersections",
+    "authors": [
+      "Zichao Dong",
+      "Jun Gao",
+      "Hong Liu",
+      "Minghui Ouyang",
+      "Qiang Zhou"
+    ],
+    "status": "published",
+    "year": 2026,
+    "arxiv": "2504.12296",
+    "doi": "10.1017/s0305004126101984",
+    "journal": "Mathematical Proceedings of the Cambridge Philosophical Society",
+    "volume": "181",
+    "issue": "2",
+    "pages": "1001–1020",
+    "checked_on": "2026-09-26",
+    "sources": [
+      "https://doi.org/10.1017/s0305004126101984",
+      "https://arxiv.org/abs/2504.12296",
+      "https://api.crossref.org/works/10.1017/s0305004126101984"
+    ],
+    "publication_date": "2026-09",
+    "publication_date_basis": "issue"
+  },
+  {
+    "id": "lattice-covering",
+    "title": "New upper bound for lattice covering by spheres",
+    "authors": [
+      "Jun Gao",
+      "Xizhi Liu",
+      "Oleg Pikhurko",
+      "Shumin Sun"
+    ],
+    "status": "published",
+    "year": 2026,
+    "doi": "10.1112/mtk.70066",
+    "journal": "Mathematika",
+    "volume": "72",
+    "issue": "1",
+    "article_number": "e70066",
+    "selected_order": 4,
+    "checked_on": "2026-09-26",
+    "sources": [
+      "https://doi.org/10.1112/mtk.70066",
+      "https://arxiv.org/abs/2508.06446",
+      "https://api.crossref.org/works/10.1112/mtk.70066"
+    ],
+    "arxiv": "2508.06446",
+    "publication_date": "2026-01",
+    "publication_date_basis": "issue"
+  },
+  {
+    "id": "theta-cliques",
+    "title": "Counting cliques without generalized theta graphs",
+    "authors": [
+      "Jun Gao",
+      "Zhuo Wu",
+      "Yisai Xue"
+    ],
+    "status": "published",
+    "year": 2026,
+    "doi": "10.1002/jgt.70001",
+    "journal": "Journal of Graph Theory",
+    "volume": "111",
+    "issue": "3",
+    "pages": "78–94",
+    "checked_on": "2026-09-26",
+    "sources": [
+      "https://doi.org/10.1002/jgt.70001",
+      "https://arxiv.org/abs/2311.15289",
+      "https://api.crossref.org/works/10.1002/jgt.70001"
+    ],
+    "arxiv": "2311.15289",
+    "publication_date": "2026-03",
+    "publication_date_basis": "issue"
+  },
+  {
+    "id": "graph-gluing",
+    "title": "Bipartite Turán problems via graph gluing",
+    "authors": [
+      "Zichao Dong",
+      "Jun Gao",
+      "Hong Liu"
+    ],
+    "status": "published",
+    "year": 2025,
+    "doi": "10.1112/blms.70243",
+    "journal": "Bulletin of the London Mathematical Society",
+    "volume": "57",
+    "issue": "12",
+    "pages": "3783–3796",
+    "selected_order": 5,
+    "checked_on": "2026-09-26",
+    "sources": [
+      "https://doi.org/10.1112/blms.70243",
+      "https://arxiv.org/abs/2501.12953",
+      "https://api.crossref.org/works/10.1112/blms.70243"
+    ],
+    "arxiv": "2501.12953",
+    "publication_date": "2025-12",
+    "publication_date_basis": "issue"
+  },
+  {
+    "id": "geometric-shapes",
+    "title": "Extremal number of graphs from geometric shapes",
+    "authors": [
+      "Jun Gao",
+      "Oliver Janzer",
+      "Hong Liu",
+      "Zixiang Xu"
+    ],
+    "status": "published",
+    "year": 2025,
+    "doi": "10.1007/s11856-025-2820-4",
+    "journal": "Israel Journal of Mathematics",
+    "volume": "269",
+    "issue": "2",
+    "pages": "761–799",
+    "checked_on": "2026-09-26",
+    "sources": [
+      "https://doi.org/10.1007/s11856-025-2820-4",
+      "https://arxiv.org/abs/2303.13380",
+      "https://api.crossref.org/works/10.1007/s11856-025-2820-4"
+    ],
+    "arxiv": "2303.13380",
+    "publication_date": "2025-10",
+    "publication_date_basis": "issue"
+  },
+  {
+    "id": "p-norms",
+    "title": "Phase transition of degenerate Turán problems in p-norms",
+    "authors": [
+      "Jun Gao",
+      "Xizhi Liu",
+      "Jie Ma",
+      "Oleg Pikhurko"
+    ],
+    "status": "published",
+    "year": 2025,
+    "doi": "10.1137/25m1738401",
+    "journal": "SIAM Journal on Discrete Mathematics",
+    "volume": "39",
+    "issue": "3",
+    "pages": "1712–1736",
+    "title_html": "Phase transition of degenerate Turán problems in <i>p</i>-norms",
+    "checked_on": "2026-09-26",
+    "sources": [
+      "https://doi.org/10.1137/25m1738401",
+      "https://arxiv.org/abs/2411.15579",
+      "https://api.crossref.org/works/10.1137/25m1738401"
+    ],
+    "arxiv": "2411.15579",
+    "publication_date": "2025-09-30",
+    "publication_date_basis": "issue"
+  },
+  {
+    "id": "ramsey-turan",
+    "title": "Generalized Ramsey–Turán density for cliques",
+    "authors": [
+      "Jun Gao",
+      "Suyun Jiang",
+      "Hong Liu",
+      "Maya Sankar"
+    ],
+    "status": "published",
+    "year": 2025,
+    "doi": "10.1017/fms.2025.29",
+    "journal": "Forum of Mathematics, Sigma",
+    "volume": "13",
+    "article_number": "e78",
+    "checked_on": "2026-09-26",
+    "sources": [
+      "https://doi.org/10.1017/fms.2025.29",
+      "https://arxiv.org/abs/2403.12919",
+      "https://api.crossref.org/works/10.1017/fms.2025.29"
+    ],
+    "arxiv": "2403.12919",
+    "publication_date": "2025-04-22",
+    "publication_date_basis": "online"
+  },
+  {
+    "id": "subset-sums",
+    "title": "The Erdős distinct subset sums problem in a modular setting",
+    "authors": [
+      "Stijn Cambie",
+      "Jun Gao",
+      "Younjin Kim",
+      "Hong Liu"
+    ],
+    "status": "published",
+    "year": 2025,
+    "doi": "10.4064/aa231107-13-9",
+    "journal": "Acta Arithmetica",
+    "volume": "217",
+    "issue": "4",
+    "pages": "295–307",
+    "checked_on": "2026-09-26",
+    "sources": [
+      "https://doi.org/10.4064/aa231107-13-9",
+      "https://arxiv.org/abs/2308.03748",
+      "https://api.crossref.org/works/10.4064/aa231107-13-9",
+      "https://www.impan.pl/en/publishing-house/journals-and-series/acta-arithmetica/all/en/publishing-house/journals-and-series/acta-arithmetica/all/217/4/115883/the-erdos-distinct-subset-sums-problem-in-a-modular-setting"
+    ],
+    "arxiv": "2308.03748",
+    "publication_date": "2025-02-06",
+    "publication_date_basis": "online"
+  },
+  {
+    "id": "hamiltonian-subsets",
+    "title": "Many Hamiltonian subsets in large graphs with given density",
+    "authors": [
+      "Stijn Cambie",
+      "Jun Gao",
+      "Hong Liu"
+    ],
+    "status": "published",
+    "year": 2024,
+    "doi": "10.1017/s0963548323000317",
+    "journal": "Combinatorics, Probability and Computing",
+    "volume": "33",
+    "issue": "1",
+    "pages": "110–120",
+    "checked_on": "2026-09-26",
+    "sources": [
+      "https://doi.org/10.1017/s0963548323000317",
+      "https://arxiv.org/abs/2301.07467",
+      "https://api.crossref.org/works/10.1017/s0963548323000317"
+    ],
+    "arxiv": "2301.07467",
+    "publication_date": "2024-01",
+    "publication_date_basis": "issue"
+  },
+  {
+    "id": "consecutive-even-cycles",
+    "title": "On two cycles of consecutive even lengths",
+    "authors": [
+      "Jun Gao",
+      "Binlong Li",
+      "Jie Ma",
+      "Tianying Xie"
+    ],
+    "status": "published",
+    "year": 2024,
+    "doi": "10.1002/jgt.23074",
+    "journal": "Journal of Graph Theory",
+    "volume": "106",
+    "issue": "2",
+    "pages": "225–238",
+    "checked_on": "2026-09-26",
+    "sources": [
+      "https://doi.org/10.1002/jgt.23074",
+      "https://arxiv.org/abs/2210.03959",
+      "https://api.crossref.org/works/10.1002/jgt.23074"
+    ],
+    "arxiv": "2210.03959",
+    "publication_date": "2024-06",
+    "publication_date_basis": "issue"
+  },
+  {
+    "id": "non-shadows",
+    "title": "Stability through non-shadows",
+    "authors": [
+      "Jun Gao",
+      "Hong Liu",
+      "Zixiang Xu"
+    ],
+    "status": "published",
+    "year": 2023,
+    "doi": "10.1007/s00493-023-00053-4",
+    "journal": "Combinatorica",
+    "volume": "43",
+    "issue": "6",
+    "pages": "1125–1137",
+    "checked_on": "2026-09-26",
+    "sources": [
+      "https://doi.org/10.1007/s00493-023-00053-4",
+      "https://arxiv.org/abs/2212.07821",
+      "https://api.crossref.org/works/10.1007/s00493-023-00053-4"
+    ],
+    "arxiv": "2212.07821",
+    "publication_date": "2023-12",
+    "publication_date_basis": "issue"
+  },
+  {
+    "id": "gallai",
+    "title": "Tight bounds towards a conjecture of Gallai",
+    "authors": [
+      "Jun Gao",
+      "Jie Ma"
+    ],
+    "status": "published",
+    "year": 2023,
+    "doi": "10.1007/s00493-023-00020-z",
+    "journal": "Combinatorica",
+    "volume": "43",
+    "issue": "3",
+    "pages": "447–453",
+    "selected_order": 3,
+    "checked_on": "2026-09-26",
+    "sources": [
+      "https://doi.org/10.1007/s00493-023-00020-z",
+      "https://arxiv.org/abs/2205.14556",
+      "https://api.crossref.org/works/10.1007/s00493-023-00020-z"
+    ],
+    "arxiv": "2205.14556",
+    "publication_date": "2023-06",
+    "publication_date_basis": "issue"
+  },
+  {
+    "id": "rainbow-matching",
+    "title": "On the rainbow matching conjecture for 3-uniform hypergraphs",
+    "authors": [
+      "Jun Gao",
+      "Hongliang Lu",
+      "Jie Ma",
+      "Xingxing Yu"
+    ],
+    "status": "published",
+    "year": 2022,
+    "doi": "10.1007/s11425-020-1890-4",
+    "journal": "Science China Mathematics",
+    "volume": "65",
+    "issue": "11",
+    "pages": "2423–2440",
+    "checked_on": "2026-09-26",
+    "sources": [
+      "https://doi.org/10.1007/s11425-020-1890-4",
+      "https://arxiv.org/abs/2011.14363",
+      "https://api.crossref.org/works/10.1007/s11425-020-1890-4"
+    ],
+    "arxiv": "2011.14363",
+    "publication_date": "2022-11",
+    "publication_date_basis": "issue"
+  },
+  {
+    "id": "cycle-lengths",
+    "title": "A unified proof of conjectures on cycle lengths in graphs",
+    "authors": [
+      "Jun Gao",
+      "Qingyi Huo",
+      "Chun-Hung Liu",
+      "Jie Ma"
+    ],
+    "status": "published",
+    "year": 2022,
+    "doi": "10.1093/imrn/rnaa324",
+    "journal": "International Mathematics Research Notices",
+    "volume": "2022",
+    "issue": "10",
+    "pages": "7615–7653",
+    "selected_order": 1,
+    "checked_on": "2026-09-26",
+    "sources": [
+      "https://doi.org/10.1093/imrn/rnaa324",
+      "https://arxiv.org/abs/1904.08126",
+      "https://api.crossref.org/works/10.1093/imrn/rnaa324"
+    ],
+    "arxiv": "1904.08126",
+    "publication_date": "2022-05-10",
+    "publication_date_basis": "issue"
+  },
+  {
+    "id": "odd-cycles",
+    "title": "A strengthening on odd cycles in graphs of given chromatic number",
+    "authors": [
+      "Jun Gao",
+      "Qingyi Huo",
+      "Jie Ma"
+    ],
+    "status": "published",
+    "year": 2021,
+    "doi": "10.1137/20m1387882",
+    "journal": "SIAM Journal on Discrete Mathematics",
+    "volume": "35",
+    "issue": "4",
+    "pages": "2317–2327",
+    "checked_on": "2026-09-26",
+    "sources": [
+      "https://doi.org/10.1137/20m1387882",
+      "https://arxiv.org/abs/2012.10624",
+      "https://api.crossref.org/works/10.1137/20m1387882"
+    ],
+    "arxiv": "2012.10624",
+    "publication_date": "2021-10-04",
+    "publication_date_basis": "online"
+  },
+  {
+    "id": "verstraete",
+    "title": "A conjecture of Verstraëte on vertex-disjoint cycles",
+    "authors": [
+      "Jun Gao",
+      "Jie Ma"
+    ],
+    "status": "published",
+    "year": 2020,
+    "doi": "10.1137/19m1267738",
+    "journal": "SIAM Journal on Discrete Mathematics",
+    "volume": "34",
+    "issue": "2",
+    "pages": "1290–1301",
+    "checked_on": "2026-09-26",
+    "sources": [
+      "https://doi.org/10.1137/19m1267738",
+      "https://arxiv.org/abs/1906.03206",
+      "https://api.crossref.org/works/10.1137/19m1267738"
+    ],
+    "arxiv": "1906.03206",
+    "publication_date": "2020-06-11",
+    "publication_date_basis": "online"
+  },
+  {
+    "id": "bondy-vince",
+    "title": "On a conjecture of Bondy and Vince",
+    "authors": [
+      "Jun Gao",
+      "Jie Ma"
+    ],
+    "status": "published",
+    "year": 2020,
+    "doi": "10.1016/j.jctb.2019.07.005",
+    "journal": "Journal of Combinatorial Theory, Series B",
+    "volume": "141",
+    "pages": "136–142",
+    "checked_on": "2026-09-26",
+    "sources": [
+      "https://doi.org/10.1016/j.jctb.2019.07.005",
+      "https://arxiv.org/abs/1902.05701",
+      "https://api.crossref.org/works/10.1016/j.jctb.2019.07.005"
+    ],
+    "arxiv": "1902.05701",
+    "publication_date": "2020-03",
+    "publication_date_basis": "issue"
+  },
+  {
+    "id": "spectral-radius",
+    "title": "The spectral radius of graphs without long cycles",
+    "authors": [
+      "Jun Gao",
+      "Xinmin Hou"
+    ],
+    "status": "published",
+    "year": 2019,
+    "doi": "10.1016/j.laa.2018.12.023",
+    "journal": "Linear Algebra and its Applications",
+    "volume": "566",
+    "pages": "17–33",
+    "checked_on": "2026-09-26",
+    "sources": [
+      "https://doi.org/10.1016/j.laa.2018.12.023",
+      "https://arxiv.org/abs/1707.04810",
+      "https://api.crossref.org/works/10.1016/j.laa.2018.12.023"
+    ],
+    "arxiv": "1707.04810",
+    "publication_date": "2019-04",
+    "publication_date_basis": "issue"
+  }
+]
