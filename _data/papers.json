@@ -1,5 +1,22 @@
 [
   {
+    "id": "turan-systems",
+    "title": "An improved bound on the minimum size of Turán (r+1,r)-systems",
+    "authors": [
+      "Jun Gao",
+      "Peiru Kuang",
+      "Oleg Pikhurko",
+      "Yan Wang"
+    ],
+    "status": "preprint",
+    "year": 2026,
+    "arxiv": "2608.23967",
+    "checked_on": "2026-09-26",
+    "sources": [
+      "https://arxiv.org/abs/2608.23967"
+    ]
+  },
+  {
     "id": "positive-codegree",
     "title": "Strong non-principality of positive codegree Turán density",
     "authors": [
@@ -226,7 +243,7 @@
     "volume": "72",
     "issue": "1",
     "article_number": "e70066",
-    "selected_order": 4,
+    "selected_order": 5,
     "checked_on": "2026-09-26",
     "sources": [
       "https://doi.org/10.1112/mtk.70066",
@@ -277,7 +294,7 @@
     "volume": "57",
     "issue": "12",
     "pages": "3783–3796",
-    "selected_order": 5,
+    "selected_order": 6,
     "checked_on": "2026-09-26",
     "sources": [
       "https://doi.org/10.1112/blms.70243",
@@ -312,7 +329,8 @@
     ],
     "arxiv": "2303.13380",
     "publication_date": "2025-10",
-    "publication_date_basis": "issue"
+    "publication_date_basis": "issue",
+    "selected_order": 4
   },
   {
     "id": "p-norms",

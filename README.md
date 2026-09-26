@@ -17,14 +17,14 @@ See more info at https://academicpages.github.io/
 
 ## Maintaining this homepage
 
-- English introduction and five selected papers: `_pages/about.md`.
+- English introduction and selected papers: `_pages/about.md`.
 - Chinese introduction: `_pages/about-zh.md`.
 - Full publication list: `_pages/publications.html`, using `_data/papers.json`.
 - Teaching, academic visits and talks: `_pages/activities.md` (empty until records are confirmed).
 - Navigation: `_data/navigation.yml`.
 
 Edit publication metadata in `_data/papers.json`; the homepage and full list
-share the same records. `selected_order` chooses the five homepage papers and
+share the same records. `selected_order` chooses the homepage papers and
 their order. The full list shows preprints first, newest arXiv submissions first
 (the current identifiers sort chronologically). Published papers sort newest
 first by `publication_date`, using the journal issue date where available;
