@@ -26,12 +26,15 @@ See more info at https://academicpages.github.io/
 Edit publication metadata in `_data/papers.json`; the homepage and full list
 share the same records. `selected_order` chooses the homepage papers and
 their order. The full list shows preprints first, newest arXiv submissions first
-(the current identifiers sort chronologically). Published papers sort newest
+(the current identifiers sort chronologically), followed by accepted papers and
+published papers. Set `status` to `accepted` and provide `journal` when acceptance
+is confirmed; these papers appear as "to appear" without invented issue details.
+Published papers sort newest
 first by `publication_date`, using the journal issue date where available;
 `publication_date_basis` distinguishes issue dates from online publication dates.
 Dates retain the precision supplied by the source. `checked_on` and `sources` record when and where metadata was
-verified. Keep papers as preprints unless a publisher or another reliable
-source confirms a publication. The old `_publications` collection is not used
+verified. Keep papers as preprints unless the author or a reliable public
+source confirms acceptance or publication. The old `_publications` collection is not used
 for the main publication list.
 
 ## Running locally

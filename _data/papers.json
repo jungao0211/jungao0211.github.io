@@ -114,10 +114,12 @@
       "Oleg Pikhurko",
       "Shumin Sun"
     ],
-    "status": "preprint",
+    "status": "accepted",
+    "journal": "Discrete & Computational Geometry",
     "year": 2025,
     "arxiv": "2510.25685",
-    "checked_on": "2026-09-26",
+    "checked_on": "2026-10-10",
+    "status_source": "Acceptance confirmed by the author on 2026-10-10.",
     "sources": [
       "https://arxiv.org/abs/2510.25685"
     ]

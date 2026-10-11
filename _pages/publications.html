@@ -7,13 +7,15 @@ excerpt: "Publications and preprints by Jun Gao."
 ---
 
 {% assign published_papers = site.data.papers | where: "status", "published" | sort: "publication_date" | reverse %}
+{% assign accepted_papers = site.data.papers | where: "status", "accepted" | sort: "arxiv" | reverse %}
 {% assign preprints = site.data.papers | where: "status", "preprint" | sort: "arxiv" | reverse %}
 <p>My work in combinatorics, graph theory, extremal set theory and discrete geometry.</p>
 <nav class="section-links" aria-label="Publication sections">
   <a href="#preprints">Preprints <span>{{ preprints.size }}</span></a>
+  {% if accepted_papers.size > 0 %}<a href="#accepted">Accepted <span>{{ accepted_papers.size }}</span></a>{% endif %}
   <a href="#published">Published <span>{{ published_papers.size }}</span></a>
 </nav>
-<p class="bibliography-updated">Last updated: 26 September 2026.</p>
+<p class="bibliography-updated">Last updated: 10 October 2026.</p>
 
 <h2 id="preprints">Preprints</h2>
 <ol class="publication-list">
@@ -21,6 +23,15 @@ excerpt: "Publications and preprints by Jun Gao."
   {% include publication-item.html paper=pub %}
 {% endfor %}
 </ol>
+
+{% if accepted_papers.size > 0 %}
+<h2 id="accepted">Accepted</h2>
+<ol class="publication-list">
+{% for pub in accepted_papers %}
+  {% include publication-item.html paper=pub %}
+{% endfor %}
+</ol>
+{% endif %}
 
 <h2 id="published">Published</h2>
 <ol class="publication-list">
